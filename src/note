@@ -1,0 +1,12 @@
+REGULAR EXPERSSION
+to check pattern of reg strings
+
+rule
+1-should start/end with /
+2-experssion start with power symbol
+3-experssion ends with $ symbol
+
+match()
+return arrays or returns null
+
+!! to convert into boolean
