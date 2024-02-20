@@ -58,6 +58,7 @@ const handleReset =()=>{
     setIsYear(true)
     setIsPrinciple(true)
     setIsRate(true)
+    setInterest(0)
   }
 const handleSubmit=(e)=>{
   e.preventDefault()
